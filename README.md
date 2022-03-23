@@ -1,6 +1,8 @@
 # 63EventManagement
 
-This is a simple .NET Event Management System
+This is a simple .NET Event Management System <br>
+
+By default the program expects an Access DB at C:\temp\NZESL.mdb
 
 ## Main Menu
 ![image](https://user-images.githubusercontent.com/29742451/159630388-d70b81c0-000c-455f-80e9-8d771b4aab20.png)
